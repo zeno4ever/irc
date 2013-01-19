@@ -1,0 +1,34 @@
+Python TkkrLab bot for #tkkrlab irc channel
+
+This is the irc bot on the freenode #tkkrlab channel. Its used for our 
+hackerspace TkkrLab to do some functions for our members. Right now
+the following function are available:
+
+!status - show if the space is open (based on local file)
+!led - update led board with message
+!help - show all available commands
+!quote - show a quote (from the included qoute file)
+
+to run this script you need to have the additional files:
+quotes.txt - file with the quotes (shorted to 140 chars, so it can also be user for our tweet status script)
+status.txt - file with open ('1') or closed status ('0'), this is updated by another script.
+
+
+Script has two modes, a test mode and a live mode.
+
+For normal operation start the bot with 
+
+$ python irc.py
+
+If you want to test functions you can start it wih
+
+$ python irc.py test
+
+This script is released under public domain, you can do what you want.
+
+If you have any remarks or questions let me know at zeno4ever@gmail.com
+
+Happy hacking,
+
+Dave
+
