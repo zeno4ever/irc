@@ -147,3 +147,6 @@ Life is like UNIX. Powerful, but confusing & frightening to newcomers. Also old 
 "This quote only looks profound when it's in a script font over a sunset." -- Randall Munroe
 "I don't do a lot of public speaking, so I looked up a memorable quote to start my speech, and this is what I found. OK, you're staring at me blankly, but this whole thing is a quote. I know that sounds confusing, but... You know what, never mind!" -- Randall Munroe
 "Sent from my iPhone." -- Randall Munroe
+I would tell you an UDP joke, but you might not get it.
+Jesus saves, Buddha does incremental backups
+The problem is at OSI layer 8. Or PEBKAC. Or Error code ID-10T
