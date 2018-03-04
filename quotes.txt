@@ -150,3 +150,4 @@ Life is like UNIX. Powerful, but confusing & frightening to newcomers. Also old 
 I would tell you an UDP joke, but you might not get it.
 Jesus saves, Buddha does incremental backups
 The problem is at OSI layer 8. Or PEBKAC. Or Error code ID-10T
+“Those who would give up essential liberty to purchase a little temporary safety, deserve neither liberty nor safety.” -- Benjamin Franklin 1755
