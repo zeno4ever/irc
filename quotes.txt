@@ -153,3 +153,4 @@ The problem is at OSI layer 8. Or PEBKAC. Or Error code ID-10T
 “Those who would give up essential liberty to purchase a little temporary safety, deserve neither liberty nor safety.” -- Benjamin Franklin 1755
 "Hacker are free people, just like artist who wake up in the morning in a good mood and start painting." -- Vladimir Putin (2018)
 Schrodinger's Backup  "The condition of any backup is unknown until a restore is attempted"
+"Ik heb het nog nooit gedaan dus ik denk dat ik het wel kan” - Pippi Langkous
