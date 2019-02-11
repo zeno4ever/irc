@@ -154,3 +154,15 @@ The problem is at OSI layer 8. Or PEBKAC. Or Error code ID-10T
 "Hacker are free people, just like artist who wake up in the morning in a good mood and start painting." -- Vladimir Putin (2018)
 Schrodinger's Backup  "The condition of any backup is unknown until a restore is attempted"
 "Ik heb het nog nooit gedaan dus ik denk dat ik het wel kan” - Pippi Langkous
+"I have not failed. I've just found 10.000 ways that won't work." - Thomas Edison
+“I have not failed. I've just found 10,000 ways that won't work.”  ― Thomas A. Edison
+“Many of life's failures are people who did not realize how close they were to success when they gave up.” ― Thomas A. Edison
+“Five percent of the people think; ten percent of the people think they think; and the other eighty-five percent would rather die than think.” ― Thomas A. Edison
+“We often miss opportunity because it's dressed in overalls and looks like work”  ― Thomas A. Edison
+“Genius is one percent inspiration, ninety-nine percent perspiration.” ― Thomas A. Edison
+“The three great essentials to achieve anything worthwhile are, first, hard work; second, stick-to-itiveness; third, common sense.”  ― Thomas A. Edison
+“If we all did the things we are really capable of doing, we would literally astound ourselves.” ― Thomas A. Edison
+“When you have exhausted all possibilities, remember this - you haven't.” ― Thomas Edison
+“Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.” ― Thomas Edison
+“To invent, you need a good imagination and a pile of junk.” ― Thomas A. Edison
+“Just because something doesn't do what you planned it to do doesn't mean it's useless.” ― Thomas A. Edison
