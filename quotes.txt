@@ -1,168 +1,279 @@
-'When Life Gives You Questions, Google has Answers'- AJ Carpio
-1f u c4n r34d th1s u r34lly n33d t0 g37 l41d
-There are 10 types of people in the world: those who understand binary, and those who don't.
-I would love to change the world, but they won't give me the source code
-My software never has bugs. It just develops random features.
-The box said 'Requires Windows 95 or better'. So I installed LINUX.
-Roses are #FF0000 / Violets are #0000FF / All my base / Are belong to you
-Failure is not an option -- it comes bundled with Windows.
-'Who needs the library? I've got google!'- Jackson Gallagher
-That's a PEBKAC problem. (Problem Exists Between Keyboard And Chair)
-COFFEE.EXE Missing - Insert Cup and Press Any Key
-Alert! User Error. Please replace user and press any key to continue.
-'With great power there must also come — great responsibility.”  – Amazing Fantasy #15 (August 1962)
-'If I’m not back in five minutes, just wait longer.” – Ace Ventura, Ace ventura, Pet Detective
-WE APOLOGIZE FOR THE INCONVENIENCE – God (Douglas Adams), So Long, and Thanks for All the Fish
-'Some days, you just can’t get rid of a bomb!” – Adam West, Batman & Robin
-'Bill, strange things are afoot at the Circle K.” – Ted, Bill & Ted’s Excellent Adventure
-'Alright, alright alright.” – Wooderson, Dazed and Confused
-'Never argue with the data.” – Sheen, Jimmy Neutron
-'Fantastic!” – The Doctor (Christopher Eccleston), Doctor Who
-'This is the way society functions. Aren’t you a part of society?” – Kramer, Seinfeld
-'No matter where you go, there you are. ” – Buckaroo Banzai, Buckaroo Banzai Across the Eighth Dimension
-'Ray, if someone asks you if you’re a god, you say YES!” – Winston, Ghostbusters
-'Greetings, programs!” -Flynn, TRON
-'I guess you picked the wrong god-damned rec room to break into, didn’t you?!” -Burt, Tremors
-'I find your lack of faith disturbing.” -Darth Vader, Star Wars
-'Try not. Do, or do not. There is no try.” – Yoda, The Empire Strikes Back
-'It’s a moral imperative.” – Chris Knight, Real Genuis
-'This episode was BADLY written!” -Gwen, Galaxy Quest
-'Worst. Episode. Ever.” – Comic Book Guy, The Simpsons
-'Goonies never say die.” -Mike, The Goonies
-'Nothing shocks me–I’m a scientist.” – Indiana Jones, Indiana Jones and the Temple of Doom
-'Bright light! Bright light!” – Gremlins
-'Human sacrifice, dogs and cats living together… mass hysteria!” – Dr. Peter Venkman, Ghostbusters
-'If we knew what it was we were doing, it would not be called research, would it?” – Albert Einstein
-'Don’t call me a mindless philosopher, you overweight blob of grease!” – C3PO, Star Wars
-'I’d just as soon kiss a wookiee!” – Princess Leia, The Empire Strikes Back
-'I know kung fu.” – Neo, The Matrix
-'This is your receipt for your husband… and this is my receipt for your receipt.” – Officer, Brazil
-'Your soul-suckin’ days are over, amigo!” – Elvis, Bubba Ho-Tep
-'Would you say I have a plethora of piñatas?” – El Guapo, ¡Three Amigos!
-'Never go in against a Sicilian when death is on the line!” Vizzini, The Princess Bride
-'Time…to die.” – Roy Batty, Blade Runner
-'Now I am become Death, the destroyer of worlds” J. Robert Oppenheimer
-'Check, please.” – Lone Starr & Barf, Spaceballs
-'So say we all.” – Battlestar Galactica
-'I am a leaf on the wind, watch how I soar.” – Wash, Serenity
+"A common mistake, when trying to design something completely foolproof is to underestimate the ingenuity of complete fools" - Douglas Adams
+"Adam Savage's first step of project planning: make a list"
+"All things serve the beam.” various instances, The Dark Tower series
+"Am I about to feel really, really stupid?" - Adam Savage
+"Am I missing an eyebrow?" - Adam Savage
+"Any day we create that much shrapnel is a good day." - Jamie Hyneman
+"Being a geek is all about learning the inventories of things." - Adam Savage
+"Bigger is always better." - Adam Savage
+"Daddy would have gotten us Uzis.” – Samantha, Night of the Comet
+"Danger Will Robinson! Danger!” – Robbie the Robot, Lost in Space
+"Deadlines refine the mind. They remove variables like exotic materials and processes that take too long. The closer the deadline, the more likely you'll start thinking waaay outside the box." -  Adam Savage
+"Don't work for fools. It's not worth it. Getting paid less to work for people you like and believe in is much better for you (and your career) in the long run." - Adam Savage
+"Duct tape is not a perfect solution to anything. But with a little creativity, in a pinch, it's an adequate solution to just about everything." - Jamie Hyneman
+"End Of Line” – The MCP, TRON
+"ET phone home.” – ET"We thought you was a toad!” – Delmar, O Brother Where Art Thou?
+"Face it tiger, you just hit the jackpot!”–Mary Jane, Spider-Man.
+"Failure is always an option." - Adam Savage
+"Firemen have the coolest toys ever!" - Adam Savage
+"Fractals, the theory of relativity, the genome: these are magnificently beautiful constructs." - Adam Savage
+"Fun for us just happens to be screwing around with anything that gets our attention and is thought-provoking." - Jamie Hyneman
+"Gimme some sugar, baby.” – Ash, Army of Darkness
+"Gravity. It's not just a good idea; it's the law!" - Adam Savage
+"Hacker are free people, just like artist who wake up in the morning in a good mood and start painting." -- Vladimir Putin (2018)
+"Hey, it compiles! Ship it!"
+"How hard can it be to blow up a room full of gasoline?!" - Adam Savage
+"I always enjoy seeing Adam [Savage] in pain." - Jamie Hyneman
+"I believe that inside every tool is a hammer." -  Adam Savage
+"I believe that rules do not make us moral; loving each other makes us moral." - Adam Savage
+"I didn't do the engineering, and I didn't do the math, because I thought I understood what was going on and I thought I made a good rig. But I was wrong. I should have done it." - Jamie Hyneman
+"I disagree strongly with whatever work this quote is attached to." -- Randall Munroe
+"I don't do a lot of public speaking, so I looked up a memorable quote to start my speech, and this is what I found. OK, you're staring at me blankly, but this whole thing is a quote. I know that sounds confusing, but... You know what, never mind!" -- Randall Munroe
+"I don't think our death ray is working. I'm standing right in it, and I'm not dead yet." - Jamie Hyneman
+"I have not failed. I've just found 10.000 ways that won't work." - Thomas Edison
+"I have some ideas on how to fix that. They're not very good ideas, but at least they're ideas!
+"I just had one of those 'what the hell are we doing' moments." - Adam Savage
+"I like to work fast. I despise not having the right tool or, worse, knowing I have it but not being able to find it. It's a pointless delay that wrecks my pace - and mood." - Adam Savage
+"I would have to say that looked like it hurt." -Adam Savage
+"I wouldn't say jamie is an evil genius. I'm not sure he's evil and I'm not sure he's a genius." - Adam Savage
+"I wrote this book, and the person quoting me here is taking credit for it." -- Randall Munroe
+"I'm actually the fourth generation in my family to have no practical use for the church, or God, or religion. My children continue this trend." - Adam Savage
+"I'm being quoted to introduce something, but I have no idea what it is and certainly don't endorse it." -- Randall Munroe
+"I'm not gonna shoot anyone with the pellet gun... Not unless I have to!" - Adam Savage
+"I've learned over decades of building that a deadline is a potent tool for problem-solving." - Adam Savage
+"If at first you don't succeed, C4" - Jamie Hyneman
+"If I had any dignity, that would have been humiliating." - Adam Savage
+"If you're doing a text search in this document for the word 'butts,' the good news is that it's here, but the bad news is that it only appears in this unrelated quote." -- Randall Munroe
+"Ik heb het nog nooit gedaan dus ik denk dat ik het wel kan” - Pippi Langkous
+"In the spirit of science, there really is no such thing as a 'failed experiment.' Any test that yields valid data is a valid test." - Adam Savage
+"It's a treat to see the sun rise over the desert. What am I saying? It's a treat to fire off a rocket car over the desert!" - Adam Savage
+"It's just a flesh wound." - Black Knight in Monty Python and the Holy Grail.
+"It's sort of a mental attitude about critical thinking and curiosity. It's about mindset of looking at the world in a playful and curious and creative way." - Adam Savage
+"Jamie's gonna go take a break now, and i am going to continue the on-going process of making a fool of myself and go ahead and try it myself." - Adam Savage
+"Klaatu barada nikto.” The Day the Earth Stood Still
+"Kneel before Zod.” – Zod, Superman II
+"Let's blow some stuff up." - Adam Savage
+"Let's get on our knees and pray. I don't know to whom. Is there a patron saint of ballistics gel?" - Adam Savage
+"Lists are how I parse and manage the world." - Adam Savage
+"Make it so” / 'Engage” – Captain Picard, Star Trek: The Next Generation
+"Monsters from the Id.” – Doc Ostrow, Forbidden Planet
+"My advice is keep your lips away from the spinning things." - Adam Savage
+"My dignity and good television - they'll never meet." - Adam Savage
+"Now I have a machine gun. Ho ho ho.” – John McClane (in writing), Die Hard
+"Of course, I love tools. I also love arranging them, to the point where I came up with a name for my organizing metric: first-order retrievability." - Adam Savage
+"One of our neighbors is a salami distributor, and they pretty well - I mean, we used their salami to make a rocket engine out of. They just look at us and they're amused, they're fine with it." - Jamie Hyneman
+"Oooh, look at me, I looked up a quote!" -- Randall Munroe
+"Science isn't just for scientists and guys in lab coats. It's something that everybody can do." - Jamie Hyneman
+"Sent from my iPhone." -- Randall Munroe
+"Shall we play a game?” – Joshua, WarGames
+"Sometimes my brain writes a check that reality can't cash." - Adam Savage
+"Sometimes the best people to be around are not exactly like you - because if they were, what is the point? If they contribute something different than you can, that is when they are valuable." - Jamie Hyneman
+"Stand back! I gotta get some rocket fuel out of the fridge!" - Adam Savage
+"Take your stinking paws off me, you damn dirty ape!” – Taylor, Planet of the Apes
+"Technology is usually there to let some process go on hidden in the background. For us on 'MythBusters,' we're always trying to make the process apparent. So, we have learned to try and never rely on a technological solution when an analogue one is in front of us." - Adam Savage
+"That aesthetic of the Star Wars universe: the do-it-yourself, hotrod ethic that George Lucas exported from his childhood, is exactly the same kind of soul behind what we do and build for the show. It may not look pretty, but it gets the job done." - Adam Savage
+"That was excellent! I mean, it didn't do anything, but it looked really cool!" - Adam Savage
+"That's our job - to strap rockets onto everything." - Adam Savage
+"The coolest toys don't have to be bought; they can be built. In fact, sometimes the only way they'll ever exist is if you make them yourself." - Adam Savage
+"The difference between screwing around and science is writing it down." - Adam Savage
+"The editors of Bartlett's Familiar Quotations are a bunch of cowards who don't have the guts to print this." -- Randall Munroe
+"The hardest part of design... is keeping features out"
+"The idea of an ordered and elegant universe is a lovely one. One worth clinging to. But you don't need religion to appreciate the ordered existence. It's not just an idea, it's reality. We're discovering the hidden orders of the universe every day." - Adam Savage
+"The idea that you can contribute is really important, especially for a kid." - Jamie Hyneman
+"The Internet is probably the most important technological advancement of my lifetime. Its strength lies in its open architecture and its ability to allow a framework where all voices can be heard." - Adam Savage
+"The only thing that differentiates you and me from a couple of fourteen year old pyromaniacs is balistic glass!" - 
+"The skeptical community is absolutely near and dear to the Mythbusters’ heart and there’s no small reason that they’ve embraced us. That’s our people. That’s the way we like to think." - Adam Savage
+"Ther're 10 types of ppl. Those who understand binary, those who don't and those who didn't expect this joke to be in base 3" -@jdfitzgerald
+"There are a lot of things that I'd do differently. But I can't imagine being more fortunate than I have been." - Jamie Hyneman
+"These aren’t the droids you’re looking for.” – Obi-Wan, Star Wars
+"This entire thing is the quote, not just the part in quote marks." [quote marks, brackets, and editor's note are all in the original. -ED.] -- Randall Munroe
+"This is the point in the show where we say, 'Oh, what else do we have in the van that's flammable?'" - Adam Savage
+"This is your life, this is your country – and if you want to keep it safe, you need to get involved" – Aaron Swartz 1986-2013
+"This quote is often falsely attributed to Mark Twain." -- Randall Munroe
+"This quote is very memorable." -- Randall Munroe
+"This quote only looks profound when it's in a script font over a sunset." -- Randall Munroe
+"This quote was taken out of context." -- Randall Munroe
+"This quote will be the only part of this presentation you remember." -- Randall Munroe
+"Wait, what if these quote marks are inside out, so everything in the rest of the document is the quotation and this part isn't? Duuuuude." -- Randall Munroe
+"We are always works in progress. You will hurt people you love, and help people you detest. This is called being a human and it happens to everyone." - Adam Savage
+"We are the Knights who say... NI." Knight in Monty Python and the Holy Grail. 
+"We didn't set out to be educators or even scientists, and we don't purport that what we do is real science but we're demonstrating a methodology by which one can engage and satisfy your curiosity." - Adam Savage
+"We don't necessarily stand by our faults every time, but we will always stand by our methodologies and ethos." - Adam Savage
+"We have relatively little time and a whole lot of curiosity, so the most efficient way to get there is what we do, and that often happens to be some form of science." - Jamie Hyneman
+"We're allowed to explore the world at large on these things; the urban-legend aspect of it is just kind of an excuse." - Adam Savage
+"Websites that collect quotes are full of mistakes and never check original sources." -- Randall Munroe
+"We’re going to need a bigger boat.” – Chief Brody, Jaws
+"What... is the air-speed velocity of an unladen swallow?" Bridgekeeper in Monty Python and the Holy Grail.
+"When in doubt, use brute force" - Ken Thompson
+"Who knows what evil lurks in the hearts of men? The Shadow knows.” – announcer, The Shadow radio drama
+"Ya Ta!” – Hiro Nakamura, Heroes
+"Yeah, well. The Dude abides.” – The Dude, The Big Lebowski
+"You can’t fool me! There ain’t no Sanity Clause!” – Chico Marx, A Night at the Opera
+"You don’t have to be a gun.”-Hogarth, The Iron Giant.
+"You maniacs! You blew it up! Oh, damn you! Damn you all to hell!” – Taylor, Planet of the Apes
+'1984' wasn’t meant to be an instruction manual
 'Ahh, a bear in his natural habitat: a Studebaker.” Fozzie, The Muppet Movie
-'He’s dead, Jim.” McCoy, ST:TOS
-'Bring out your dead.” Monty Python and the Holy Grail
-'My name is Inigo Montoya. You killed my father. Prepare to die!” -Inigo, The Princess Bride
-'Why a duck? Why-a no chicken?” – Chico Marx, Cocoanuts
-'Redrum.” Danny, The Shining
-'Who knows what evil lurks in the hearts of men? The Shadow knows.” – announcer, The Shadow radio drama
-'We’re going to need a bigger boat.” – Chief Brody, Jaws
-'These aren’t the droids you’re looking for.” – Obi-Wan, Star Wars
-'Take your stinking paws off me, you damn dirty ape!” – Taylor, Planet of the Apes
-'You maniacs! You blew it up! Oh, damn you! Damn you all to hell!” – Taylor, Planet of the Apes
-'Klaatu barada nikto.” The Day the Earth Stood Still
-'Monsters from the Id.” – Doc Ostrow, Forbidden Planet
-'ET phone home.” – ET
-'We thought you was a toad!” – Delmar, O Brother Where Art Thou?
-'Face it tiger, you just hit the jackpot!”–Mary Jane, Spider-Man.
-'You don’t have to be a gun.”-Hogarth, The Iron Giant.
-'Danger Will Robinson! Danger!” – Robbie the Robot, Lost in Space
-'Yeah, well. The Dude abides.” – The Dude, The Big Lebowski
-'All things serve the beam.” various instances, The Dark Tower series
-'You can’t fool me! There ain’t no Sanity Clause!” – Chico Marx, A Night at the Opera
-'Now I have a machine gun. Ho ho ho.” – John McClane (in writing), Die Hard
-'Gimme some sugar, baby.” – Ash, Army of Darkness
-'Kneel before Zod.” – Zod, Superman II
-'Shall we play a game?” – Joshua, WarGames
-'Daddy would have gotten us Uzis.” – Samantha, Night of the Comet
-'Make it so” / 'Engage” – Captain Picard, Star Trek: The Next Generation
-'Ya Ta!” – Hiro Nakamura, Heroes
-'End Of Line” – The MCP, TRON
-'42' (Douglas Adams) -- 
-'User requests are what computers are for!' (TRON) -- 
-'Don't rush miracles, son. You do that and you get lousy miracles.' and 'As you wish.' (Princess Bride) -- 
 'All your base are belong to us' -- 
-'GAME OVER, MAN! GAME OVER!' (Aliens) -- 
-'Helllooo Nurse!' (Animaniacs) -- 
-'The truth is out ther.' (X-Files') -- 
+'Alright, alright alright.” – Wooderson, Dazed and Confused
+'Am I Missing... an Eyebrow?' - Adam Savage in Mythbusters
+'And in case I don't see ya' good afternoon, good evening and good night' The truman show
+'Bazinga!' The big bang theory
+'Bill, strange things are afoot at the Circle K.” – Ted, Bill & Ted’s Excellent Adventure
+'Bright light! Bright light!” – Gremlins
+'Bring out your dead.” Monty Python and the Holy Grail
+'Captain Niobe of the Logos will answer the Councillor's call.' Matrix Reloaded
+'Check, please.” – Lone Starr & Barf, Spaceballs
+'Come with me if you want to live' Terminator
+'Cry havoc and let slip the dogs of war!' Shakespeare
+'De wereld draait op nerds' - André Kuipers
 'Do not meddle in the affairs of dragons for you are crunchy and good with ketchup.' -- 
+'Do things that have never been done before' - Russell Kirsch, inventor of the computer
+'Don't Panic.'- Douglas Adams, The Hitchhiker's Guide to the Galaxy
+'Don't rush miracles, son. You do that and you get lousy miracles.' and 'As you wish.' (Princess Bride) -- 
+'Don’t call me a mindless philosopher, you overweight blob of grease!” – C3PO, Star Wars
 'Duct tape is like the Force. It has a light side, a dark side, and it binds the universe together.' -- 
-'I'm not stupid. I'm not expendable and I'm not going!' (Blake Seven) -- 
-'If someone asks if you're a god, you say YES!' (Ghostbusters) -- 
+'Fantastic!” – The Doctor (Christopher Eccleston), Doctor Who
 'Friends help you move. Real friends help you move bodies.' -- 
+'GAME OVER, MAN! GAME OVER!' (Aliens) -- 
+'Goonies never say die.” -Mike, The Goonies
+'Greetings, programs!” -Flynn, TRON
+'Helllooo Nurse!' (Animaniacs) -- 
+'Hello, Newman' Seinfeld
+'He’s dead, Jim.” McCoy, ST:TOS
+'Human sacrifice, dogs and cats living together… mass hysteria!” – Dr. Peter Venkman, Ghostbusters
+'I am a leaf on the wind, watch how I soar.” – Wash, Serenity
+'I find your lack of faith disturbing.” -Darth Vader, Star Wars
+'I guess you picked the wrong god-damned rec room to break into, didn’t you?!” -Burt, Tremors
+'I have been, and shall always be, your friend.' - Spock, various Star Trek movies.
+'I know kung fu.” – Neo, The Matrix
+'I reject your reality, and substitute my own!' - Adam Savage in Mythbusters
+'I'm not stupid. I'm not expendable and I'm not going!' (Blake Seven) -- 
+'If I were human, I believe my response would be 'Go to hell'. If I were human.' - Spock
+'If it's worth doing...it's worth overdoing' Mythbusters
+'If I’m not back in five minutes, just wait longer.” – Ace Ventura, Ace ventura, Pet Detective
+'If someone asks if you're a god, you say YES!' (Ghostbusters) -- 
+"If we knew what it was we were doing, it would not be called research, would it?” – Albert Einstein
+'It is a good day to die.' Lt. Whorf
+"It’s a moral imperative.” – Chris Knight, Real Genuis
+"I’d just as soon kiss a wookiee!” – Princess Leia, The Empire Strikes Back
+'Jamie want big boom' Jamie Hyneman - Mythbusters
+'Logic, logic, logic.... Logic is the beginning of wisdom, val'Eris, not the end.' - Spock, Star Trek 6
+'My name is Inigo Montoya. You killed my father. Prepare to die!” -Inigo, The Princess Bride
+"Never argue with the data.” – Sheen, Jimmy Neutron
+"Never go in against a Sicilian when death is on the line!” Vizzini, The Princess Bride
+'Never try to remember anything, that's already written down.' Albert Einstein
 'No guts, no glory' (Galaxy Rangers) - 
+"No matter where you go, there you are. ” – Buckaroo Banzai, Buckaroo Banzai Across the Eighth Dimension
+"Nothing shocks me – I’m a scientist.” – Indiana Jones, Indiana Jones and the Temple of Doom
+"Now I am become Death, the destroyer of worlds” J. Robert Oppenheimer
+'Oel Ngati Kameie' Avatar
+'Ray, if someone asks you if you’re a god, you say YES!” – Winston, Ghostbusters
+"Redrum.” Danny, The Shining
 'RENEW!' (Logan's Run - for birthday parties)
 'Ressistance is futile' Star Trek, the new generation.
-'Oel Ngati Kameie' Avatar
 'Save the cheerleader save the world' Heroes
-'Bazinga!' The big bang theory
-'Captain Niobe of the Logos will answer the Councillor's call.' Matrix Reloaded
-'What do you think I am? Human?' Matrix Revolutions
-'Come with me if you want to live' Terminator
-'Hello, Newman' Seinfeld
-'To infinity and beyond' Toy story
-'THIS IS SPARTA' 300
-'WHY SO SERIOUS? Let's put a smile on that face' Batman The dark night
-'And in case I don't see ya' good afternoon, good evening and good night' The truman show
-'Never try to remember anything, that's already written down.' Albert Einstein
-'Logic, logic, logic.... Logic is the beginning of wisdom, val'Eris, not the end.' - Spock, Star Trek 6
-'I have been, and shall always be, your friend.' - Spock, various Star Trek movies.
-'You want to know something? Everybody's Human.' 'I find that remark insulting.' - Kirk and Spock
-'If I were human, I believe my response would be 'Go to hell'. If I were human.' - Spock
 'Second star to the right, and straight on 'til morning.' J. M. Barrie, in Peter Pan.
-'It is a good day to die.' Lt. Whorf
-'Cry havoc and let slip the dogs of war!' Shakespeare
-There is no place like 127.0.0.1
-There is no place like ::1
-'Am I Missing... an Eyebrow?' - Adam Savage in Mythbusters
-'I reject your reality, and substitute my own!' - Adam Savage in Mythbusters
-Doing things 'the MythBusters way' usually spells trouble... on a titanic scale.
-'Jamie want big boom' Jamie Hyneman - Mythbusters
-'well, here on mythbusters, failure is always an option!'
-'If it's worth doing...it's worth overdoing' Mythbusters
-'when in doubt, C4' Jamie Hyneman - Mythbusters
-'Ugly programs are like ugly suspension bridges: they're much more liable to collapse than pretty ones' Eric Raymond
-2B OR NOT 2B is not a question, it's FF
-O Lord, I have sinned, I typed 'dir' instead of 'ls'
-'1984' wasn’t meant to be an instruction manual
-'Don't Panic.'- Douglas Adams, The Hitchhiker's Guide to the Galaxy
+"So say we all.” – Battlestar Galactica
+"Some days, you just can’t get rid of a bomb!” – Adam West, Batman & Robin
 'The Answer to the Great Question... Of Life, the Universe and Everything... Is... Forty-two,' - Deep Thought
-“Life,” said Marvin dolefully, “loathe it or ignore it, you can’t like it.” ― Douglas Adams, The Hitchhiker's Guide to the Galaxy
-"It's just a flesh wound." - Black Knight in Monty Python and the Holy Grail.
-"What... is the air-speed velocity of an unladen swallow?" Bridgekeeper in Monty Python and the Holy Grail.
-"We are the Knights who say... NI." Knight in Monty Python and the Holy Grail. 
-They say computers only do what you tell them to.  They're wrong.  Mine still hasn't gone to hell.
-Life is like UNIX. Powerful, but confusing & frightening to newcomers. Also old men with beards understand it best.
-'Do things that have never been done before' - Russell Kirsch, inventor of the computer
-'De wereld draait op nerds' - André Kuipers
-"I disagree strongly with whatever work this quote is attached to." -- Randall Munroe
-"This quote was taken out of context." -- Randall Munroe
-"This quote is often falsely attributed to Mark Twain." -- Randall Munroe
-"I'm being quoted to introduce something, but I have no idea what it is and certainly don't endorse it." -- Randall Munroe
-"This quote is very memorable." -- Randall Munroe
-"I wrote this book, and the person quoting me here is taking credit for it." -- Randall Munroe
-"This entire thing is the quote, not just the part in quote marks." [quote marks, brackets, and editor's note are all in the original. -ED.] -- Randall Munroe
-"Websites that collect quotes are full of mistakes and never check original sources." -- Randall Munroe
-"This quote will be the only part of this presentation you remember." -- Randall Munroe
-"Oooh, look at me, I looked up a quote!" -- Randall Munroe
-"If you're doing a text search in this document for the word 'butts,' the good news is that it's here, but the bad news is that it only appears in this unrelated quote." -- Randall Munroe
-"Wait, what if these quote marks are inside out, so everything in the rest of the document is the quotation and this part isn't? Duuuuude." -- Randall Munroe
-"The editors of Bartlett's Familiar Quotations are a bunch of cowards who don't have the guts to print this." -- Randall Munroe
-"This quote only looks profound when it's in a script font over a sunset." -- Randall Munroe
-"I don't do a lot of public speaking, so I looked up a memorable quote to start my speech, and this is what I found. OK, you're staring at me blankly, but this whole thing is a quote. I know that sounds confusing, but... You know what, never mind!" -- Randall Munroe
-"Sent from my iPhone." -- Randall Munroe
+'The truth is out ther.' (X-Files') -- 
+"This episode was BADLY written!” -Gwen, Galaxy Quest
+'THIS IS SPARTA' 300
+"This is the way society functions. Aren’t you a part of society?” – Kramer, Seinfeld
+'This is your receipt for your husband… and this is my receipt for your receipt.” – Officer, Brazil
+"Time…to die.” – Roy Batty, Blade Runner
+'To infinity and beyond' Toy story
+"Try not. Do, or do not. There is no try.” – Yoda, The Empire Strikes Back
+'Ugly programs are like ugly suspension bridges: they're much more liable to collapse than pretty ones' Eric Raymond
+'User requests are what computers are for!' (TRON) -- 
+'well, here on mythbusters, failure is always an option!'
+'What do you think I am? Human?' Matrix Revolutions
+'when in doubt, C4' Jamie Hyneman - Mythbusters
+'When Life Gives You Questions, Google has Answers'- AJ Carpio
+'Who needs the library? I've got google!'- Jackson Gallagher
+'Why a duck? Why-a no chicken?” – Chico Marx, Cocoanuts
+'WHY SO SERIOUS? Let's put a smile on that face' Batman The dark night
+'With great power there must also come — great responsibility.”  – Amazing Fantasy #15 (August 1962)
+"Worst. Episode. Ever.” – Comic Book Guy, The Simpsons
+'Would you say I have a plethora of piñatas?” – El Guapo, ¡Three Amigos!
+'You want to know something? Everybody's Human.' 'I find that remark insulting.' - Kirk and Spock
+"Your soul-suckin’ days are over, amigo!” – Elvis, Bubba Ho-Tep
+1f u c4n r34d th1s u r34lly n33d t0 g37 l41d
+2B OR NOT 2B is not a question, it's FF
+Alert! User Error. Please replace user and press any key to continue.
+COFFEE.EXE Missing - Insert Cup and Press Any Key
+Doing things 'the MythBusters way' usually spells trouble... on a titanic scale.
+Failure is not an option -- it comes bundled with Windows.
+I always telling people to "not try this at home," because most of what we do on MythBusters is really dangerous. Consequently, we can't encourage people to try that stuff. - Jamie Hyneman
+I would love to change the world, but they won't give me the source code
 I would tell you an UDP joke, but you might not get it.
 Jesus saves, Buddha does incremental backups
-The problem is at OSI layer 8. Or PEBKAC. Or Error code ID-10T
-“Those who would give up essential liberty to purchase a little temporary safety, deserve neither liberty nor safety.” -- Benjamin Franklin 1755
-"Hacker are free people, just like artist who wake up in the morning in a good mood and start painting." -- Vladimir Putin (2018)
+Life is like UNIX. Powerful, but confusing & frightening to newcomers. Also old men with beards understand it best.
+My software never has bugs. It just develops random features.
+O Lord, I have sinned, I typed 'dir' instead of 'ls'
+Roses are #FF0000 / Violets are #0000FF / All my base / Are belong to you
 Schrodinger's Backup  "The condition of any backup is unknown until a restore is attempted"
-"Ik heb het nog nooit gedaan dus ik denk dat ik het wel kan” - Pippi Langkous
-"I have not failed. I've just found 10.000 ways that won't work." - Thomas Edison
-“I have not failed. I've just found 10,000 ways that won't work.”  ― Thomas A. Edison
-“Many of life's failures are people who did not realize how close they were to success when they gave up.” ― Thomas A. Edison
+That's a PEBKAC problem. (Problem Exists Between Keyboard And Chair)
+The box said 'Requires Windows 95 or better'. So I installed LINUX.
+The problem is at OSI layer 8. Or PEBKAC. Or Error code ID-10T
+There are 10 types of people in the world: those who understand binary, and those who don't.
+There is no place like 127.0.0.1
+There is no place like ::1
+They say computers only do what you tell them to.  They're wrong.  Mine still hasn't gone to hell.
+WE APOLOGIZE FOR THE INCONVENIENCE – God (Douglas Adams), So Long, and Thanks for All the Fish
+“A lot of nerds aren’t aware they’re nerds. A geek has thrown his hands up to the universe and gone, ‘I speak Klingon – who am I fooling? You win! I’m just gonna openly like what I like.’ Geeks tend to be a little happier with themselves.” - Patton Oswalt.
+“A person who does many things differently and often independently makes perhaps the biggest difference of the highest significance for the greatest excellence in everyone’s life.” - Anuj Somany.
+“Back off man, I'm a scientist.” -  Dr. Peter Venkman, 'Ghostbusters'.
+“Be nice to nerds. Chances are you'll end up working for one.” - Bill Gates.
+“Being a geek is a great thing. I think we’re all geeks. Being a geek means you’re passionate about something and that defines your uniqueness. I would rather be passionate about something than be apathetic about everything.” - Masi Oka.
+“Brainy is the new sexy.” - Irene Adler, ‘Sherlock’.
+“Charm is the ability to insult people without offending them; nerdiness the reverse.” - Nassim Nicholas Taleb.
+“Don’t let the beard fool you. He’s a child!” - Stu Price, ‘The Hangover’.
+“Dude wore his nerdiness like a Jedi wore his light saber or a Lensman her lens. Couldn’t have passed for Normal if he’d wanted to.” - Junot Díaz, ‘The Brief Wondrous Life Of Oscar Wao’.
+“Everyone’s a nerd inside. I don’t care how cool you are.” - Channing Tatum.
 “Five percent of the people think; ten percent of the people think they think; and the other eighty-five percent would rather die than think.” ― Thomas A. Edison
-“We often miss opportunity because it's dressed in overalls and looks like work”  ― Thomas A. Edison
 “Genius is one percent inspiration, ninety-nine percent perspiration.” ― Thomas A. Edison
-“The three great essentials to achieve anything worthwhile are, first, hard work; second, stick-to-itiveness; third, common sense.”  ― Thomas A. Edison
+“Get your stinking paws off me, you damned dirty ape!” - George Taylor, ‘Planet Of The Apes’.
+“He's given me enough homework to last ten years. I'm gonna die of nerdism.” - Mark A. Cooper, ‘Absolutely Nothing’.
+“I get obsessed by little nerdy things in my corner that no one else is interested in.” - Bjork.
+“I love nerds. Comic-Con junkies are the tastemakers of tomorrow. Isn't that funny? The tables have turned.” - Kristen Bell.
+“I think that nerds, if you want to call them that, have only gotten hipper and more assimilated into the culture.” - Al Yankovic.
+“I think, that if the world were a bit more like Comicon, it would be a better place.” - Matt Smith.
+“I was contemplating the immortal words of Socrates, when he said'I drank what?” - Chris Knight, 'Real Genius'.
+“I will take a serious approach to a subject usually treated lightly, which is a nerdy thing to do.” - Benjamin Nugent, ‘American Nerd: The Story Of My People’.
+“I'm never without Nerds and peanut M&M's. I have a sweet tooth! I have an unlimited supply on hand at home, but the candy packs in my purse are not for sharing.” - Joanna Garcia.
+“I'm someone who loves romance. I always have loved it. Most people who grew up as nerds, as I was, surprisingly, have loved romance.” - Mindy Kaling.
+“If only he can get over becoming a NERD.” - Michael Buckley, ‘NERDS: National Espionage, Rescue, And Defense Society’.
 “If we all did the things we are really capable of doing, we would literally astound ourselves.” ― Thomas A. Edison
-“When you have exhausted all possibilities, remember this - you haven't.” ― Thomas Edison
-“Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.” ― Thomas Edison
-“To invent, you need a good imagination and a pile of junk.” ― Thomas A. Edison
+“If you like nerds, raise your hand. If you don't, raise your standards.” - Violet Haberdasher
+“In Europe they call geeks ‘smart people,’ and frankly I think we live in a culture that doesn’t value intelligence enough; so, I am very proud in saying that I am a geek.” - James Marsters.
+“In fact, the world needs more nerds.” - Ben Bernanke.
+“It’s almost a shame to smoke it. It’s like killing a unicorn…with, like, a bomb.” - Saul, ‘Pineapple Express’.
+“I’m a mog – half man, half dog. I’m my own best friend.” - Barf, ‘Spaceballs’.
 “Just because something doesn't do what you planned it to do doesn't mean it's useless.” ― Thomas A. Edison
+“Just when I think you couldn’t possibly be any dumber, you go and do somethin’ like this – and totally redeem yourself!” - Harry Dunne, ‘Dumb & Dumber’.
+“Life,” said Marvin dolefully, “loathe it or ignore it, you can’t like it.” ― Douglas Adams, The Hitchhiker's Guide to the Galaxy
+“Many of life's failures are people who did not realize how close they were to success when they gave up.” ― Thomas A. Edison
+“My best definition of a nerd: someone who asks you to explain an aphorism.” - Nassim Nicholas Taleb.
+“Nerds are just deep, and neurotic, fans. Needy fans. We're all nerds, on one subject or another.” - Jonathan Lethem.
+“Nerds get caught up in minutiae, because there is a tremendous and fulfilling sense of control in understanding every single detail of a thing more than any other living creature.” - Chris Hardwick.
+“Never apologize for being nerdy, because un-nerdy people never apologize...” - John Barrowman.
+“No one messes around with a nerd’s computer and escapes unscathed.” - E.A. Bucchianeri, ‘Brushstrokes Of A Gadfly’.
+“One thing nerds like to argue about is what nerds are allowed to argue about.” - Adam Rogers.
+“Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.” ― Thomas Edison
+“So nerds’ rule.” - Christopher Moore, ‘The Lust Lizard Of Melancholy Cove’.
+“So you're a little weird? Work it! A little different? Own it! Better to be a nerd than one of the herd!” - Mandy Hale.
+“That's the wonderful thing with nerds: they're enthusiasts. Not having a life means you get to love things with a passion and nobody bothers you about it.” - John Burnside.
+“That's what I love about geeks, that they can call themselves a geek and be proud of it. I love that.” - Doug Jones.
+“The 'Hipster Nerds' like stuff because they hate it. It's like they ironically like it.” - Chris Hardwick.
+“The nerds are the ones that make the films and do loads of other really cool stuff in their life.” - Daniel Radcliffe.
+“The three great essentials to achieve anything worthwhile are, first, hard work; second, stick-to-itiveness; third, common sense.”  ― Thomas A. Edison
+“Those who would give up essential liberty to purchase a little temporary safety, deserve neither liberty nor safety.” -- Benjamin Franklin 1755
+“To infinity and beyond!” - Buzz Lightyear, ‘Toy Story’.
+“To invent, you need a good imagination and a pile of junk.” ― Thomas A. Edison
+“We often miss opportunity because it's dressed in overalls and looks like work”  ― Thomas A. Edison
+“We’re four misfits who don’t belong together, we’re playing for other misfits. They’re the outcasts right at the back of the room. We’re pretty sure they don’t belong either. We belong to them.” - Freddie Mercury, ‘Bohemian Rhapsody’.
+“When I was a kid, it was a huge insult to be a geek. Now it’s a point of pride in a weird way.” - J.J. Abrams.
+“When you have exhausted all possibilities, remember this - you haven't.” ― Thomas Edison
+“Wit seduces by signaling intelligence without nerdiness.” - Nassim Nicholas Taleb.
+“You know that passage in the Bible that says, ‘And the meek shall inherit the Earth’? Always wondered if that was mistranslated. Perhaps it actually says, And the geek shall inherit the Earth.” - Neil De Grasse Tyson.
